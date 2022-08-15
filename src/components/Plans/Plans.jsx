@@ -8,6 +8,8 @@ import { plansData } from "./../../data/plansData";
 const Plans = () => {
   return (
     <div className="plans">
+      <div className="blur plans-blur-1 "></div>
+      <div className="blur plans-blur-2 "></div>
       <div className="programs-header">
         <span className="stoke-text">Ready to start</span>
         <span>your journey</span>

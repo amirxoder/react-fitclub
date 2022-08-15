@@ -44,5 +44,10 @@
   transition: all 0.3s ease-in-out;
 }
 
-.btn:hover {
+.blur {
+  background: rgba(253, 120, 43, 0.69);
+  position: absolute;
+  border-radius: 50%;
+  filter: blur(160px);
+  z-index: -9;
 }

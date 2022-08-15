@@ -78,3 +78,18 @@
 .plans-card > :nth-child(2) > button {
   color: var(--orange);
 }
+
+.plans-blur-1 {
+  width: 33rem;
+  height: 23rem;
+  top: 6rem;
+  left: 0rem;
+}
+
+.plans-blur-2 {
+  width: 40rem;
+  height: 23rem;
+  top: 10rem;
+  right: 0;
+}
+
